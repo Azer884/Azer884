@@ -10,7 +10,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/azer-hamdaoui-128536319" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>&nbsp;&nbsp;
   <a href="https://instagram.com/weld_ma7amed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/weldhama" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@weldhama" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.leetcode.com/azerhamdaoui" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>&nbsp;&nbsp;
   <a href="https://discord.gg/6PWKV26VFv" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/></a>
 </p>
