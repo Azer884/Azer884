@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on [DuckRoulette](https://github.com/Azer884/DuckRoulette)  
 - 🌱 I'm currently learning **Unity Netcode**  
-- 👨‍💻 All of my projects are available at https://weld-ma7amed.itch.io/  
+- 👨‍💻 All of my projects are available at https://weldhama.itch.io/  
 - 📫 How to reach me **azer.hamdaoui.07@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
